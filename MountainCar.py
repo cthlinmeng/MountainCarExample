@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 29 22:15:31 2020
-
-@author: tjmen
-"""
-
 # objective is to get the cart to the flag.
 # for now, let's just move randomly:
 
